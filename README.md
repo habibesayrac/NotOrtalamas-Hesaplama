@@ -1,4 +1,4 @@
-# NotOrtalamas-Hesaplama
+# NotOrtalaması-Hesaplama
 
 import java.util.Scanner;
 
